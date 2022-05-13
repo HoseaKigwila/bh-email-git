@@ -1,0 +1,283 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #f3f3f3 !important;
+}
+
+.container.header {
+  background: #f3f3f3;
+}
+
+.body-drip {
+  border-top: 8px solid #663399;
+}
+
+// Full Width Headers
+.header {
+  background: #8a8a8a;
+}
+
+.header .columns {
+  padding-bottom: 0;
+}
+
+.header p {
+  color: #fff;
+  padding-top: 15px;
+}
+
+.header .wrapper-inner {
+  padding: 20px;
+}
+
+.header .container {
+  background: transparent;
+}
+
+// Social Media
+table.button.facebook table td {
+  background: #3B5998 !important;
+  border-color: #3B5998;
+}
+
+table.button.twitter table td {
+  background: #1daced !important;
+  border-color: #1daced;
+}
+
+table.button.google table td {
+  background: #DB4A39 !important;
+  border-color: #DB4A39;
+}
+
+.wrapper.secondary {
+  background: #f3f3f3;
+}
+
+
+//////////////////////////////////////////////////////
+
+.nope{
+  padding-bottom: 0 !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+
+.thin-font{
+  font-family: 'Helvetica Neue', Helvetica, 'Montserrat', 'Open Sans', Arial, sans-serif ;
+  font-weight: 100 ;
+}
+
+
+.RB{
+  border-right: 1px solid #cbcbcb !important;
+}
+
+.top-logo{
+  width: 9em;
+}
+
+.top-nav-box{
+  display: flex;
+}
+
+.top-nav-box p{
+ font-size: 25px;
+ margin-top: 10px;
+}
+
+.top-nav-1{
+  padding-right: 6px;
+}
+
+.top-nav-2{
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.bottom-nav-box{
+  display: flex;
+}
+
+.bottom-nav-box p{
+  font-size: 15px !important ;
+  padding-right: 10px;
+  
+}
+
+.bottom-nav-1{
+  text-decoration: underline;
+  font-weight: bold ;
+}
+
+.bottom-nav-2{
+  
+}
+
+.titles-box{
+  text-align: center;
+}
+
+.titles-box-title{
+  text-align: center;
+  font-size: 50px !important;
+}
+
+.titles-box-subtitle{
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+
+.blog-box{
+  padding: 0 0 !important;
+}
+
+.blog-box-2{
+ padding: 0 0 !important;
+}
+
+.blog-box-3{
+  padding: 0 0 !important;
+}
+
+
+
+.blog-text{
+  font-size: 12px ;
+  padding-top: 15px;
+  font-weight: bold ;
+  padding-left: 20px ;
+  padding-right: 8px;
+  
+
+}
+
+.blog-btn{
+  width: 8em;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.grey-promo-key{
+padding: 0px !important;
+} 
+
+.grey-promo-key{
+  padding: 0px !important;
+  } 
+
+
+.promo-img-1{
+  max-width: 100% ;
+
+}
+
+.promo-img-2{
+  height: 183px;
+}
+
+.promo-img-3{
+  width: 287px;
+  margin-right: 0px !important;
+}
+
+.promo-img-4{
+  width: 287px;
+  margin-left: -4px;
+  height: 141px;
+}
+
+.promo-img-5{
+  width: 287px;
+  height: 141px;
+  margin-left: -4px;
+  
+}
+
+.promo-img-6{
+  width: 291px ;
+  height: 64px ;
+}
+
+.promo-img-7{
+  width: 300px ;
+  height: 64px ;
+}
+
+.product-box{
+background-color: #222222;
+height: 155px ;
+}
+
+.product-box-text{
+  color: white;
+  padding-top: 3em;
+  font-size: 23px ;
+}
+
+.product-box-img{
+  height: 155px ;
+  margin-right: 10px !important;
+}
+
+.bottomItems-box-1{
+  border-top: .5px solid grey !important;
+  border-right: .5px solid grey !important;
+}
+
+.bottomItems-box-2{
+  border-top: .5px solid grey !important;
+  border-left: .5px solid grey !important;
+}
+
+.bottomItems-logo{
+  margin: 20px 0;
+}
+
+.bottomItems-P{
+ font-weight: bold;
+}
+
+.bottomItems-img{
+ margin-top: 3em;
+ margin-bottom: 5px;
+ margin-right: auto ;
+ margin-left: auto;
+}
+
+.bottomItems-img-2{
+  margin-top: 46px ;
+ margin-bottom: 5px;
+ margin-right: auto ;
+ margin-left: auto;
+
+}
+
+.bottomItems-img-3{
+  margin-top: 70px ;
+ margin-bottom: 5px;
+ margin-right: auto ;
+ margin-left: auto;
+}
+
+.bottomItems-price{
+ text-align: center; 
+ color: #c7252a;
+ font-weight: bold !important;
+}
+
+.bottomItems-btn{
+  width: 8em !important;
+  margin: auto;
+}
+
+
+
