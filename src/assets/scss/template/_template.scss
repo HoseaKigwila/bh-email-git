@@ -295,6 +295,35 @@ height: 155px ;
   margin: auto;
 }
 
+.footer-box{
+ background-color: #EEEEEE;
+ 
+}
+
+.social-btns{
+  padding-top: 20px;
+}
+.social-btns img{
+  width: 30px;
+}
+
+.apps-btn img{
+  width: 95px ; 
+}
+
+.footer-text p{
+  text-align: center;
+  font-size: 13px ;
+}
+
+.footer-text{
+  background-color:#eeeeee ;
+}
+
+
+
+
+
 
 @media only screen 
   and (min-device-width: 320px) 
@@ -331,6 +360,13 @@ height: 155px ;
     height: 22px !important;
   }
 
+  .product-box-text{
+    padding-top: 1em !important;
+  }
+  
+  .footer-box{
+    padding-top: 20px !important;
+  }
 
 
     }
